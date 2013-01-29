@@ -2,7 +2,7 @@
 <ti:app xmlns:ti="http://ti.appcelerator.org">
     <id>com.learnwindows</id>
     <name>Alphabets</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <publisher>fakhar khan</publisher>
     <url>https://github.com/fakharkhan</url>
     <description>This application is developed for learning Titanium, every thing of this project is free to use.</description>
